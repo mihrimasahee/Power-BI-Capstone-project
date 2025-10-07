@@ -21,4 +21,9 @@
     - A many-to-one relationship between the Sales in USD and Sales tables based on the OrderID field.
 
     - In all instances, the cross-filter direction of each relationship should be set to Both.
+* Created time-based summaries for displaying quarterly, annual, and year-to-date profit data.
+
+* Determined median sales volume to assess Tailwind Traders' performance stability.
+
+* Utilized the *Performance Analyzer* tool to enhance report generation and ensure fast loading times.
 
