@@ -6,7 +6,7 @@
   configured the data sources by adding sales data, ensuring the accuracy of the data types, and transforming the historical currency exchange data. 
 
 * Design and develop a data model.
-  designed and developed a data model using the tables created in the previous scenario. A well-designed data model is the most effective way to visualize your data and its relationships.
+  designed and developed a data model using the tables created in the previous scenario. A well-designed data model is the most effective way to visualize data and its relationships.
   As part of the data model’s design and development, configured the model’s relationships, defined a calendar table, and used DAX to calculate sales and profit metrics.
   - data model’s tables should be configured as follows:
 
