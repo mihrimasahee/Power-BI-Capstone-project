@@ -7,10 +7,10 @@
 
 * Design and develop a data model.
   designed and developed a data model using the tables created in the previous scenario. A well-designed data model is the most effective way to visualize data and its relationships.
-  As part of the data model’s design and development, configured the model’s relationships, defined a calendar table, and used DAX to calculate sales and profit metrics.
+  As part of the data model’s design and development, Configured the model’s relationships, defined a calendar table, and used DAX to calculate sales and profit metrics.
   - data model’s tables should be configured as follows:
 
-    - A one-to-one relationship between the Countries and Exchange Data tables based on the Exchange ID field.
+    - A one-to-one relationship between the Countries and Exchanged Data tables based on the Exchange ID field.
 
     - A many-to-one relationship between the Sales and Countries tables based on the Country ID field.
 
@@ -26,4 +26,7 @@
 * Determined median sales volume to assess Tailwind Traders' performance stability.
 
 * Utilized the *Performance Analyzer* tool to enhance report generation and ensure fast loading times.
+* Create different kinds of charts to display sales data.
+
+* Display important sales metrics using cards and KPIs.
 
